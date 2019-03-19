@@ -1,0 +1,18 @@
+package money;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class QuestionTest {
+
+	@Test
+	public void test() {
+		question q = new question();
+		boolean result = q.number(39);
+		Assert.assertEquals(result, false);
+	}
+
+}
