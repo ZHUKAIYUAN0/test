@@ -7,4 +7,7 @@
 <fullyQualifiedTypeName name="org.junit.runners.Parameterized.Parameters"/>
 <fullyQualifiedTypeName name="java.util.Collection"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
 </qualifiedTypeNameHistroy>
